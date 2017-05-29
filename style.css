@@ -1,0 +1,1090 @@
+*
+{
+	margin:0px;
+}
+
+body
+{
+	background-color:white;
+	/*background-image:url("background.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: 1400px;
+	background-position: center;*/
+}
+
+/************************************ L O G - I N ***********************************/
+
+div#index
+{
+	background-color:white;
+	/*background-image:url("photo/background.jpg");*/
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size:100%;
+	background-position: center;
+}
+
+input.login
+{
+	border-radius:15px;
+	padding-top:10px;
+	padding-bottom:10px;
+	padding-right:20px;
+	padding-left:20px;
+	background-color:transparent;
+	font-size:25px;
+	color:gray;
+}
+
+button#inlogin
+{
+	background-color:transparent;
+	border:2px solid gray;
+	border-radius:100px;
+	font-family:"Arial";
+	font-size:17px;
+	color:#dddddd;
+	padding-top:10px;
+	padding-bottom:10px;
+	padding-right:40px;
+	padding-left:40px;
+	/*width:130px;*/
+}
+
+button#inlogin:hover
+{
+	background-color:white;
+	color:gray;
+}
+
+div#intitle
+{
+	border:0px solid white;
+	padding-top:0px;
+	padding-bottom:0px;
+}
+
+td#intitle
+{
+	padding-top:15px;
+	border:0px solid white;
+}
+
+p#intitle
+{
+	font-family:"Ar Julian";
+	font-size:60px;
+	color:#e62b1a;
+	/*color:#524f4f;*/
+}
+
+p#insubtitle
+{
+	font-family:"Ar Julian";
+	font-size:23px;
+	color:white;
+	/*color:#524f4f;*/
+}
+
+td#login
+{
+	border-radius:30px;
+	border:0px solid gray;
+	padding-bottom:0px;
+	padding-top:10px;
+	padding-left:20px;
+	padding-right:20px;
+	margin: 0px;
+	color:white;
+	font-family: "Ar Julian";
+    font-weight: 100;
+	font-size: 150%;
+} 
+
+td#inlogin
+{
+	border-radius:30px;
+	border:0px solid gray;
+	padding-bottom:0px;
+	padding-top:50px;
+	padding-left:20px;
+	padding-right:20px;
+	margin: 0px;
+	color:white;
+	font-family: "Ar Julian";
+    font-weight: 100;
+	font-size: 150%;
+} 
+
+table#inspace
+{
+	border:0px solid gray;
+	padding-top:0px;
+	padding-bottom:0px;
+}
+
+table#footspace
+{
+	border:0px solid gray;
+	padding-top:85px;
+	padding-bottom:86px;
+}
+
+/********************************** T I T L E *****************************/
+
+
+
+div#indextitle
+{
+	border:0px solid white;
+	padding-top:0px;
+	padding-bottom:0px;
+}
+
+table#logo
+{
+	border:0px solid white;
+	padding-top:10px;
+	padding-bottom:10px;
+	padding-right:30px;
+	padding-left:30px;
+}
+
+td#logo
+{
+	border:0px solid white;
+	
+}
+
+td#indextitle
+{
+	padding-top:5px;
+	border:0px solid white;
+}
+
+td.buttons
+{
+	border:0px solid white;
+	padding:10px;
+}
+
+td#subtitle
+{
+	border:0px solid white;
+	padding-left:240px;
+	padding-right:290px;
+}
+
+p#indextitle
+{
+	font-family:"Ar Julian";
+	font-size:50px;
+	color:#e62b1a;
+	padding-left:10px;
+	/*color:#524f4f;*/
+}
+
+p#subtitle
+{
+	font-family:"Ar Julian";
+	font-size:15px;
+	color:black;
+	/*color:#524f4f;*/
+}
+
+button#login
+{
+	background-color:#e62b1a;
+	border:0px solid gray;
+	border-radius:80px;
+	font-family:"Arial";
+	font-size:13px;
+	color:white;
+	padding-top:7px;
+	padding-bottom:7px;
+	width:130px;
+}
+
+button#signup
+{
+	background-color:#e62b1a;
+	border:0px solid #979494;
+	border-radius:80px;
+	font-family:"Arial";
+	font-size:13px;
+	color:white;
+	padding-top:7px;
+	padding-bottom:7px;
+	width:130px;
+}
+
+/*** Button Hover ***/
+
+button#login:hover
+{
+	background-color:white;
+	border:1px solid #e62b1a;
+	color:#e62b1a;
+}
+
+button#signup:hover
+{
+	background-color:white;
+	border:1px solid #e62b1a;
+	color:#e62b1a;
+}
+
+/********************************** N A V I G A T O R *****************************/\
+
+div#headnav
+{
+	background-color:red;
+	border:1px solid white;
+}
+
+table#headnav
+{
+	position:absolute;
+	background-color:#e62b1a;
+	border:0px solid white;
+	padding-top:0px;
+	padding-bottom:0px;
+	padding-left:90px;
+	padding-right:42px;
+}
+
+td.headnav
+{
+	border:0px solid white;
+	padding-top:0px;
+	padding-bottom:0px;
+	padding-right:30px;
+	padding-left:30px;
+}
+
+td#search
+{
+	
+	border:0px solid white;
+	padding-top:0px;
+	padding-bottom:0px;
+	padding-right:355px;
+	padding-left:430px;
+}
+
+td#user
+{
+	
+	border:0px solid white;
+	padding-top:3px;
+	padding-bottom:3px;
+	padding-right:10px;
+}
+
+td#pass
+{
+	
+	border:0px solid white;
+	padding-top:3px;
+	padding-bottom:3px;
+	padding-right:10px;
+}
+
+td#submit
+{
+	border:0px solid white;
+	padding-top:0px;
+	padding-bottom:0px;
+	padding-right:0px;
+	padding-left:0px;
+}
+
+input#search
+{
+	border-radius:10px;
+	border:0px solid white;
+	padding-top:5px;
+	padding-bottom:5px;
+	color:gray;
+}
+
+button#search
+{
+	border-radius:5px;
+}
+
+button.headnav
+{
+	background-color:#e62b1a;
+	border:0px solid white;
+	padding-top:5px;
+	padding-bottom:5px;
+	padding-right:20px;
+	padding-left:20px;
+	color:white;
+	font-family:"Arial Black";
+	font-size:20px;
+}
+
+
+/***** Navigator's Hover *****/
+
+button.headnav:hover
+{
+	background-color:#dddddd;
+	color:#524f4f;
+	
+}
+
+/***** CATEGORY *****/
+
+table#category
+{
+	border:0px solid gray;
+	padding-top:100px;
+	padding-bottom:0px;
+}
+
+button.selected
+{
+	background-color:transparent;
+	border:1px;
+	font-family:"Ar Julian";
+	font-size:23px;
+	color:gray;
+}
+
+button.nav
+{
+	background-color:transparent;
+	border:1px;
+	font-family:"Ar Julian";
+	font-size:23px;
+	color:#9f9e9e;
+}
+
+button.nav:hover
+{
+	background-color:transparent;
+	border:1px;
+	font-family:"Ar Julian";
+	font-stretch:28px;
+	font-size:23px;
+	color:gray;
+}
+
+button.selected:hover
+{
+	background-color:transparent;
+	border:1px;
+	font-family:"Ar Julian";
+	font-size:23px;
+	color:gray;
+}
+
+/*********************** HOMEPAGE *********************/
+
+div#BODY
+{
+	background-image:url("photo/room.jpg");
+	background-repeat:no-repeat;
+	background-size:1350px 480px;
+}
+
+table#homespace
+{
+	border:0px solid gray;
+	padding-top:5px;
+	padding-bottom:15px;
+}
+
+button#signupnow
+{
+	border-radius:35px;
+	border:1px solid #e62b1a;
+	padding-top:13px;
+	padding-bottom:13px;
+	padding-left:15px;
+	padding-right:15px;
+	width:300px;
+	display:inline;
+	background-color:#e62b1a;
+	color:white;
+	font-size:15px;
+}
+
+button.suggest
+{
+	background-color:transparent;
+	border:0px solid black;
+	color:#e62b1a;
+	font-size:15px;
+}
+
+td#sentence
+{
+	border:0px solid black;
+	padding-top:100px;
+	padding-left:100px;
+}
+
+td#sentence2
+{
+	border:0px solid black;
+	padding-top:10px;
+	padding-left:100px;
+}
+
+td#sentence3
+{
+	border:0px solid black;
+	padding-top:10px;
+	padding-left:100px;
+}
+
+td#signup
+{
+	border:0px solid black;
+	padding-top:10px;
+	padding-bottom:10px;
+	padding-left:110px;
+}
+
+td#signupnow
+{
+	border:0px solid black;
+	padding-top:10px;
+	padding-bottom:10px;
+	padding-left:110px;
+}
+
+td#space
+{
+	border:0px solid black;
+	padding-top:100px;
+	padding-bottom:89px;
+	padding-left:150px;
+}
+
+td#space2
+{
+	border:0px solid black;
+	padding-top:140px;
+	padding-bottom:0px;
+	padding-left:150px;
+}
+
+p.phrase
+{
+	font-family:"Arial";
+	font-size:35px;
+	font-weight:none;
+	color:#e62b1a;
+}
+
+p.phrase2
+{
+	font-family:"Arial";
+	font-size:18px;
+	font-weight:none;
+	color:#e62b1a;
+}
+
+p.phrase3
+{
+	font-family:"Arial";
+	font-size:15px;
+	font-weight:none;
+	color:#e62b1a;
+}
+
+
+
+/*** Body Hover ***/
+
+button#signupnow:hover
+{
+	color:#e62b1a;
+	border:1px solid #e62b1a;
+	background-color:transparent;
+}
+
+button.suggest:hover
+{
+	text-decoration:underline;
+}
+
+/*********************** PRODUCTS *********************/
+
+table#prodspace
+{
+	border:0px solid gray;
+	padding-top:50px;
+	padding-bottom:50px;
+}
+
+table#stringed
+{
+	border:0px solid gray;
+	padding-top:90px;
+	padding-bottom:10px;
+}
+
+table#bowed
+{
+	border:0px solid gray;
+	padding-top:90px;
+	padding-bottom:10px;
+}
+
+table#woodwind
+{
+	border:0px solid gray;
+	padding-top:90px;
+	padding-bottom:10px;
+}
+
+table#percussion
+{
+	border:0px solid gray;
+	padding-top:90px;
+	padding-bottom:10px;
+}
+
+p#category
+{
+	font-family:"Ar Julian";
+	font-size:50px;
+	color:black;
+}
+
+p.prodtitle
+{
+	font-family:"Ar Julian";
+	font-size:50px;
+	color:#524f4f;
+}
+
+p.prodsubtitle
+{
+	font-family:"Ar Julian";
+	font-size:20px;
+	color:gray;
+}
+
+p.prodtitle:hover
+{
+	font-family:"Ar Julian";
+	font-size:50px;
+	color:#9f9e9e;
+}
+
+
+/***************************************************** Stringed **************************************************/
+
+td.acousticguitar /*** Left to Right ***/
+{
+	border:0px solid gray;
+	padding-top:0px;
+	padding-bottom:0px;
+	padding-right:50px;
+	padding-left:50px;
+}
+
+td.electricguitar /*** Right to Left ***/
+{
+	border:0px solid gray;
+	padding-top:0px;
+	padding-bottom:0px;
+	padding-right:50px;
+	padding-left:50px;
+}
+
+td.guitar  /*** Left to Right ***/
+{
+	border:0px solid gray;
+	padding-top:0px;
+	padding-bottom:0px;
+	padding-right:50px;
+	padding-left:50px;
+}
+
+td.banduria /*** Right to Left ***/
+{
+	border:0px solid gray;
+	padding-top:0px;
+	padding-bottom:0px;
+	padding-right:50px;
+	padding-left:50px;
+}
+
+td.ukulele  /*** Left to Right ***/
+{
+	border:0px solid gray;
+	padding-top:0px;
+	padding-bottom:0px;
+	padding-right:50px;
+	padding-left:50px;
+}
+
+td.harp /*** Right to Left ***/
+{
+	border:0px solid gray;
+	padding-top:0px;
+	padding-bottom:0px;
+	padding-right:50px;
+	padding-left:50px;
+}
+
+/********************************************************* Bowed **********************************************************/
+
+td.violin /*** Left to Right ***/
+{
+	border:0px solid gray;
+	padding-top:0px;
+	padding-bottom:0px;
+	padding-right:50px;
+	padding-left:50px;
+}
+
+td.electricviolin /*** Right to Left ***/
+{
+	border:0px solid gray;
+	padding-top:0px;
+	padding-bottom:0px;
+	padding-right:50px;
+	padding-left:50px;
+}
+
+td.viola  /*** Left to Right ***/
+{
+	border:0px solid gray;
+	padding-top:0px;
+	padding-bottom:0px;
+	padding-right:50px;
+	padding-left:50px;
+}
+
+td.banduria /*** Right to Left ***/
+{
+	border:0px solid gray;
+	padding-top:0px;
+	padding-bottom:0px;
+	padding-right:50px;
+	padding-left:50px;
+}
+
+td.cello  /*** Left to Right ***/
+{
+	border:0px solid gray;
+	padding-top:0px;
+	padding-bottom:0px;
+	padding-right:50px;
+	padding-left:50px;
+}
+
+td.electriccello /*** Right to Left ***/
+{
+	border:0px solid gray;
+	padding-top:0px;
+	padding-bottom:0px;
+	padding-right:50px;
+	padding-left:50px;
+}
+
+td.doublebass /*** Left to Right ***/
+{
+	border:0px solid gray;
+	padding-top:0px;
+	padding-bottom:0px;
+	padding-right:50px;
+	padding-left:50px;
+}
+
+/******************************************************* Woodwind ******************************************************/
+
+td.flute /*** Left to Right ***/
+{
+	border:0px solid gray;
+	padding-top:0px;
+	padding-bottom:0px;
+	padding-right:50px;
+	padding-left:50px;
+}
+
+td.piccolo/*** Right to Left ***/
+{
+	border:0px solid gray;
+	padding-top:0px;
+	padding-bottom:0px;
+	padding-right:50px;
+	padding-left:50px;
+}
+
+td.clarinet /*** Left to Right ***/
+{
+	border:0px solid gray;
+	padding-top:0px;
+	padding-bottom:0px;
+	padding-right:50px;
+	padding-left:50px;
+}
+
+td.bassoon /*** Right to Left ***/
+{
+	border:0px solid gray;
+	padding-top:0px;
+	padding-bottom:0px;
+	padding-right:50px;
+	padding-left:50px;
+}
+
+td.frenchhorn  /*** Left to Right ***/
+{
+	border:0px solid gray;
+	padding-top:0px;
+	padding-bottom:0px;
+	padding-right:50px;
+	padding-left:50px;
+}
+
+td.trombone /*** Right to Left ***/
+{
+	border:0px solid gray;
+	padding-top:0px;
+	padding-bottom:0px;
+	padding-right:50px;
+	padding-left:50px;
+}
+
+td.trumpet /*** Left to Right ***/
+{
+	border:0px solid gray;
+	padding-top:0px;
+	padding-bottom:0px;
+	padding-right:50px;
+	padding-left:50px;
+}
+
+td.saxophone /*** Right to Left ***/
+{
+	border:0px solid gray;
+	padding-top:0px;
+	padding-bottom:0px;
+	padding-right:50px;
+	padding-left:50px;
+}
+
+/********************************************************** Percussion **********************************************/
+
+td.piano /*** Left to Right ***/
+{
+	border:0px solid gray;
+	padding-top:0px;
+	padding-bottom:0px;
+	padding-right:50px;
+	padding-left:50px;
+}
+
+td.electrickeyboard/*** Right to Left ***/
+{
+	border:0px solid gray;
+	padding-top:0px;
+	padding-bottom:0px;
+	padding-right:50px;
+	padding-left:50px;
+}
+
+td.peacedrumset /*** Left to Right ***/
+{
+	border:0px solid gray;
+	padding-top:0px;
+	padding-bottom:0px;
+	padding-right:50px;
+	padding-left:50px;
+}
+
+td.yamahadrumset /*** Right to Left ***/
+{
+	border:0px solid gray;
+	padding-top:0px;
+	padding-bottom:0px;
+	padding-right:50px;
+	padding-left:50px;
+}
+
+td.snaredrum  /*** Left to Right ***/
+{
+	border:0px solid gray;
+	padding-top:0px;
+	padding-bottom:0px;
+	padding-right:50px;
+	padding-left:50px;
+}
+
+td.zildjiancymbal /*** Right to Left ***/
+{
+	border:0px solid gray;
+	padding-top:0px;
+	padding-bottom:0px;
+	padding-right:50px;
+	padding-left:50px;
+}
+
+td.tambourine /*** Left to Right ***/
+{
+	border:0px solid gray;
+	padding-top:0px;
+	padding-bottom:0px;
+	padding-right:50px;
+	padding-left:50px;
+}
+
+td.xylophone /*** Right to Left ***/
+{
+	border:0px solid gray;
+	padding-top:0px;
+	padding-bottom:0px;
+	padding-right:50px;
+	padding-left:50px;
+}
+
+
+/************************************* FOOTER ********************************/
+
+div#footernav
+{
+	background-color:transparent;
+	border:0px solid black;
+	padding-top:10px;
+	padding-bottom:10px;
+	padding-left:80px;
+	padding-right:70px;
+}
+
+td.footernav
+{
+	border:0px solid black;
+	padding-top:0px;
+	padding-bottom:0px;
+	padding-left:5px;
+	padding-right:15px;
+}
+
+button.footernav
+{
+	background-color:transparent;
+	border:0px solid black;
+	padding-top:0px;
+	padding-bottom:0px;
+	padding-left:10px;
+	padding-right:10px;
+	color:gray;
+	font-family:"Arial";
+	font-size:12px;
+}
+
+td.fnav
+{
+	border:0px solid black;
+	padding-top:0px;
+	padding-bottom:0px;
+	padding-left:5px;
+	padding-right:0px;
+}
+
+td#margin
+{
+	border:0px solid black;
+	padding-top:0px;
+	padding-bottom:0px;
+	padding-left:20px;
+	padding-right:0px;
+}
+
+td.year
+{
+	border:0px solid black;
+	padding-top:0px;
+	padding-bottom:0px;
+	padding-left:10px;
+	padding-right:0px;
+}
+
+td.syear
+{
+	border:0px solid black;
+	padding-top:0px;
+	padding-bottom:0px;
+	padding-left:290px;
+	padding-right:0px;
+}
+
+button.fnav
+{
+	background-color:transparent;
+	border:0px solid black;
+	padding-top:0px;
+	padding-bottom:0px;
+	padding-left:10px;
+	padding-right:10px;
+	color:gray;
+	font-family:"Arial";
+	font-size:11px;
+}
+
+td#php
+{
+	border:0px solid black;
+	padding-left:785px;
+	padding-right:0px;
+	display:inline;
+	color:gray;
+	font-size:15px;
+}
+
+li#Fspace
+{
+	border:0px solid black;
+	padding-left:40px;
+	padding-right:0px;
+	display:inline;
+	color:gray;
+	font-size:15px;
+}
+
+div#message
+{
+	background-color:transparent;
+	border:0px solid black;
+	padding-top:20px;
+	padding-bottom:30px;
+	padding-left:50px;
+	padding-right:0px;
+}
+
+p#message
+{
+	font-size:11px;
+	color:gray;
+}
+
+p#year
+{
+	font-size:11px;
+	color:gray;
+}
+
+
+/**** Footer Navigator'hover ***/
+
+button.footernav:hover
+{
+	text-decoration:underline;
+}
+
+button.fnav:hover
+{
+	text-decoration:underline;
+}
+
+button#getstarted:hover
+{
+	background-color:#1f97d6;
+}
+
+
+/***************************** A B O U T ******************************/
+
+div#about
+{
+	background-image:url("photo/rooms.jpg");
+	background-repeat:no-repeat;
+	background-size:1348px 480px;
+}
+
+table#homespace
+{
+	border:0px solid gray;
+	padding-top:5px;
+	padding-bottom:5px;
+}
+
+td#logout
+{
+	border:0px solid black;
+	padding-top:10px;
+	padding-bottom:10px;
+	padding-left:110px;
+}
+
+button#logout
+{
+	background-color:gray;
+	border:1px solid gray;
+	border-radius:80px;
+	font-family:"Arial";
+	font-size:13px;
+	color:white;
+	padding-top:7px;
+	padding-bottom:7px;
+	width:130px;
+}
+
+p.aphrase
+{
+	font-family:"Arial";
+	font-size:50px;
+	font-weight:none;
+	color:white;
+}
+
+p.aphrase2
+{
+	font-family:"Arial";
+	font-size:25px;
+	font-weight:none;
+	color:white;
+}
+
+/****** Contact Us ******/
+
+div#contact
+{
+	border:0px solid gray;
+	padding:10px;
+}
+
+td#contact
+{
+	border:0px solid gray;
+	padding:10px;
+}
+
+img#me
+{
+	border-radius:80px;
+	border:0px solid gray;
+	padding:10px;
+}
+
+td#about
+{
+	border:0px solid gray;
+	padding:5px;
+}
+
+p#contact
+{
+	font-family:"Arial Black";
+	font-size:20px;
+	color:#555752;
+}
+
+p.about
+{
+	font-family:"Arial Black";
+	font-size:15px;
+	color:#555752;
+}
